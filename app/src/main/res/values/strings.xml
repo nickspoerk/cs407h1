@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="start">Start quiz!</string>
+
+    <string name="pic_question">Which really cool mascot is this?</string>
+
+    <string name="choice_question">How cool is Bucky Badger?</string>
+    <string name="choice_option_1">Really effing cool.</string>
+    <string name="choice_option_2">Not this choice.</string>
+    <string name="choice_option_3">Woah, there.</string>
+    <string name="choice_option_4">Stop reading.</string>
+    <string name="choice_option_5">The answer was number 1.</string>
+
+    <string name="submit">Submit answer.</string>
+</resources>
